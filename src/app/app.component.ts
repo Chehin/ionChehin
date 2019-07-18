@@ -13,12 +13,12 @@ export class AppComponent {
     {
       title: 'Home',
       url: '/home',
-      icon: 'home'
+      icon: 'pricetag'
     },
     {
-      title: 'List',
+      title: 'subMenu 2',
       url: '/list',
-      icon: 'list'
+      icon: 'funnel'
     }
   ];
 
